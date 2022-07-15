@@ -9,3 +9,6 @@ Type then: npm install
 {**url**}      - Backend URL from Ayo <br>
 {**cooldown**} - changes interval cooldown <br>
 {**lngth**}    - specific the length from the random strings
+
+## Note
+working names getting saved to *Names.txt* aswell!
