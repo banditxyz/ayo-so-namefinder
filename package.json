@@ -1,0 +1,27 @@
+{
+  "name": "ayoso-name-generator",
+  "version": "1.0.0",
+  "description": "this tool generates random names and check then if the name is available on ayo.so for register",
+  "main": "app.js",
+  "scripts": {
+    "test": "non"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/banditxyz/ayo-so-namefinder"
+  },
+  "keywords": [
+    "ayo.so",
+    "name",
+    "generator"
+  ],
+  "author": "BanditXYZ",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "node-fetch": "^3.2.6",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
