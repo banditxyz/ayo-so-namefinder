@@ -1,2 +1,8 @@
-# ayo-so-namefinder
-generating random strings and checks if that string is available. perfect for og names! written in node-js.
+---
+# Installation
+```sh-session
+Clone the Repositorie and open an Terminal in the Folder.
+Type: npm install
+
+After installing the packages, you can run it with *node .*
+```
