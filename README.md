@@ -1,13 +1,13 @@
 ---
 # Installation
 ```sh-session
-Clone the Repository and open an Terminal in the Folder.
+clone the repository and open an terminal in the folder.
 Type then: npm install
 ``` 
 
 ## Variables
 {**url**}      - Backend URL from Ayo <br>
-{**cooldown**} - changes interval cooldown <br>
+{**cooldown**} - specific interval cooldown <br>
 {**lngth**}    - specific the length from the random strings
 
 ## Note
