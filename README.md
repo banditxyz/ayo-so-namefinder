@@ -1,8 +1,7 @@
 ---
 # Installation
 ```sh-session
-Clone the Repositorie and open an Terminal in the Folder.
-Type: npm install
+Clone the Repository and open an Terminal in the Folder.
+Type then: npm install
+``` 
 
-After installing the packages, you can run it with``` 
-*node .*
